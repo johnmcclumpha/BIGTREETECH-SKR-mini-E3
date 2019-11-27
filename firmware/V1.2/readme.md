@@ -1,3 +1,13 @@
+**NOTE: This is a fork of the official BigTreeTech repo - changes and configuration contained within are for my own setup and may or may not work with yours.**
+
+## So what's different?
+
+Currently the only difference is the enabling of NeoPixel for use with an 8 LED stick (which can be easily mounted using these: https://www.thingiverse.com/thing:4004430)
+
+Everything else below is verbatim from the BigTreeTech readme.md
+
+---
+
 1. Install the compilation environment, We recommend vscode + platformio. If you have already installed it, please skip this step.  If not, please see [here](https://github.com/bigtreetech/Document/blob/master/How%20to%20install%20VScode+Platformio.md).
 2. If you use the firmware of this repository, you just need to customize the function that you want and recompile it(Because Marlin 2.0 is in bugfix state, this repository may not be the latest version of Marlin 2.0).
 3. If you want to use the latest version of Marlin 2.0, please download from the [official GitHub website of marlin](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x)
